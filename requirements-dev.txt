@@ -2,3 +2,4 @@ coverage==4.5.1
 Django>=2.0
 djangorestframework>=3.8
 pycodestyle>=2.3
+six==1.13.0
