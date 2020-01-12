@@ -12,4 +12,5 @@ dist/
 *.egg-info/
 MANIFEST
 docs/_build
-/.idea
+/.ideavenv
+venv
